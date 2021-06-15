@@ -36,12 +36,12 @@ public class Main {
                 case 5:
                     menu.case5();
                     break;
-//                case 6:
-//                    menu.case6();
-//                    break;
-//                case 7:
-//                    menu.case7();
-//                    break;
+                case 6:
+                    menu.case7();
+                    break;
+                case 7:
+                    menu.case6();
+                    break;
                 case 8:
                     System.out.println("Bái bai :))");
                     System.exit(0);
